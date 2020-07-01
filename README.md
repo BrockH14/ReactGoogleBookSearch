@@ -17,7 +17,7 @@
 - JSON
 
 ## App Link
-https://googlebooksearch11.herokuapp.com/saved
+https://googlebooksearch11.herokuapp.com/
 
 ## Author
 Brock Horton
