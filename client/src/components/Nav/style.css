@@ -1,0 +1,11 @@
+.bg-primary {
+    background-color: rgba(0, 26, 255, 0.541) !important;
+}
+.fr {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.fl {
+    padding-left: 30px;
+    padding-right: 30px;
+}

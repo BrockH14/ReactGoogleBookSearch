@@ -1,4 +1,12 @@
 .delete-btn {
   float: right;
-  color: #e74944;
+  color: #ff0800;
+}
+.btn-danger {
+  color: rgb(63, 10, 10);
+  background-color: rgb(255, 222, 172);
+}
+.search {
+  color: black;
+  background-color: green;
 }
